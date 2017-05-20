@@ -16,6 +16,6 @@ Eğer bir oylama var ise evet için **Y**, hayır için ise **N**, tuşuna basab
 
 a_samp.inc for Sa-Mp Team
 
-sscanf2 for Y_Less
+sscanf2.inc for Y_Less
 
-zcmd for zeex
+zcmd.inc for zeex
